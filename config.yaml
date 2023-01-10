@@ -1,0 +1,19 @@
+# Specify configuration
+
+# mAb neutralization data
+mAb_neuts_Delta: data/mAb_neuts/mAB_neuts_frac_infectivity_Delta_301222.csv
+
+# Virus titration
+virus_titers_Delta_serum: data/virus_titer_RLU/virus_titer_RLU_Delta_serum_neuts.csv
+
+# Results
+resultsdir: results/
+summary_dir: results/summary
+neuts: results/neuts.csv
+
+
+# yeast and lentivirus DMS comparison data
+yeast_dms_REGN10933_Star: data/yeast_lenti_dms_comparison/REGN10933_yeast_Star.csv
+lenti_dms_REGN10933: data/yeast_lenti_dms_comparison/REGN10933_lentivirus.csv
+
+
